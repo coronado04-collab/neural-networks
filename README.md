@@ -1,4 +1,6 @@
 # Neural Networks Course
+Grade: 10.0
+
 The goal of this course was to:
 - Develop solutions based on Neural Networks using PyTorch
 - Acquire a deep knowledge on deep learning and differente network architectures
