@@ -24,3 +24,7 @@ Then there was an optional part where we were asked to repeat the experiment wit
 This third project consisted of implenmenting the attention mechanism to Recurrent Neural Network with LSTM. We were asked to code the attention module from scratch, since it had to be coded following certain instructions presented at the beginning of the notebook. This was an excellent practical approach to implement the attention mechanism from scratch due to its importance.
 
 Finally we are asked to compare the implemented solution with the regular RNN with LSTM without attention.
+
+## Project 4. VAE's
+This project implements a Variational Autoencoder (VAE) using PyTorch (or TensorFlow, modify if needed) for the celebA dataset, designed for unsupervised learning and generative modeling. VAEs are powerful deep learning architectures that learn latent representations of input data, allowing for tasks like data reconstruction, anomaly detection, and generating new samples. Later, we compared its performance with GMM.
+
